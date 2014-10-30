@@ -8,7 +8,7 @@ Ezt az adatlapot / kérdőívet töltsd ki ha szeretnél jelentkezni hozzánk.
 
 Ha olyan adatot szeretnél megosztani velünk, amit nem szeretnél GitHub-on keresztül elküldeni akkor a **letsconnect@bitrise.io** e-mail-re tudsz nekünk üzenetet küldeni - az e-mailbe linkeld bele a GitHub fork-od URL-jét.
 
-# Kérdések
+# Jelentkezési lap
 
 ## Egy rövid bemutatkozás
 

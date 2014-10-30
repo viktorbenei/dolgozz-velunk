@@ -36,13 +36,13 @@ hogy meg tudjunk felelni a növekvő elvárásoknak.
 
 Jelentkezz hozzánk, ha:
 
-* szeretnél egy indulóban lévő, fejlesztőknek szóló startup-ot fejlesztő csapat tagja lenni
-* van Ruby illetve Ruby on Rails fejlesztési tapasztalatod - nem feltétel, hogy senior fejlesztő legyél, a lényeg, hogy gyorsan bele tudj rázódni a projectbe
-* szeretsz változatos feladatokkal és eszközökkel foglalkozni - a project webszerver backend-je Ruby on Rails, a build szervereken futó scriptek / programok főleg Ruby és Go alapúak, maguk a build step-ek Bash és Ruby script-ek, a minta iOS alkalmazásaink ObjC-ben illetve Swift-ben íródtak.
-  * nem elvárás a felsoroltak alapos ismerete, a lényeg, hogy ha velünk dolgozol akkor valószínűleg sok különböző rendszerrel és nyelvvel fogsz foglalkozni, bár jelenleg első sorban Ruby on Rails fejlesztőt keresünk
-* motivál az, hogy fejlesztők mindennapjait megkönnyítő terméken dolgozz
-* szeretsz csapatban dolgozni és nem félsz megosztani az ötleteidet a projecttel kapcsolatban
-* tudsz alap szinten angolul kommunikálni (pl. tudsz felhasználói e-mailre angolul válaszolni)
+* szeretnél egy indulóban lévő, **fejlesztőknek szóló startup-ot fejlesztő csapat** tagja lenni
+* van **Ruby illetve Ruby on Rails** fejlesztési tapasztalatod - nem feltétel, hogy senior fejlesztő legyél, a lényeg, hogy gyorsan bele tudj rázódni a projectbe - elég ha akár csak saját hobby project-hez használtad eddig
+* **szeretsz változatos feladatokkal és eszközökkel foglalkozni** - a project webszerver backend-je Ruby on Rails, a build szervereken futó scriptek / programok főleg Ruby és Go alapúak, maguk a build step-ek Bash és Ruby script-ek, a minta iOS alkalmazásaink ObjC-ben illetve Swift-ben íródtak.
+  * *nem elvárás a felsoroltak alapos ismerete*, a lényeg, hogy ha velünk dolgozol akkor valószínűleg sok különböző rendszerrel és nyelvvel fogsz foglalkozni, bár jelenleg első sorban Ruby on Rails fejlesztőt keresünk
+* **érdekel / motivál az, hogy fejlesztők mindennapjait megkönnyítő terméken dolgozz**
+* **szeretsz csapatban dolgozni** és **nem félsz megosztani az ötleteidet** a projecttel kapcsolatban
+* tudsz **alap szinten angolul kommunikálni** (pl. tudsz felhasználói e-mailre angolul válaszolni)
 * dolgoztál már Git-tel vagy Mercurial-lal
 
 
